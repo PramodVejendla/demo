@@ -1,0 +1,96 @@
+.header {
+    position: absolute;
+    width: 577px;
+    height: 33px;
+    left: 855px;
+    top: 60px;
+    
+}
+
+li {
+    display: inline;
+    padding: 0px 10px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.title {
+    position: absolute;
+    width: 801px;
+    height: 257px;
+    left: 80px;
+    top: 171px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+
+}
+.intro {
+    position: absolute;
+    width: 762px;
+    height: 187px;
+    left: 80px;
+    top: 380px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 40px;
+    color: rgba(107, 104, 104, 1);
+}
+.profile {
+    position: absolute;
+    width: 416px;
+    height: 416.18px;
+    left: 935px;
+    top: 213px;
+
+    /* border-radius: 50px; */
+
+    box-shadow: 15px 15px 15px rgb(42, 41, 41);
+    
+}
+
+.btnHireMe{
+    position: absolute;
+    width: 225px;
+    height: 84px;
+    left: 80px;
+    top: 600px;
+
+    color: rgb(0, 0, 0);
+    padding: 10px 50px;
+    text-align: center;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 4px;
+
+    border-color: black;
+    border-width: 3px;
+}
+
+.btnMyProjects {
+    position: absolute;
+    width: 378px;
+    height: 84px;
+    left: 363px;
+    top: 600px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 4px;
+
+
+    color: #FFFFFF;
+
+    background: #000000;
+    border: 2px solid #000000;
+}
